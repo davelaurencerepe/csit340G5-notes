@@ -14,5 +14,5 @@ function NoteCard({ title, body }) {
     </div>
   )
 }
- 
+
 export default NoteCard

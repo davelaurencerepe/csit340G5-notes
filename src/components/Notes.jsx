@@ -50,7 +50,7 @@ function Notes() {
               type="button"
               className="absolute top-4 right-5 cursor-pointer text-[26px] leading-none text-[#949494] hover:text-[#c18585]"
             >
-              
+              ×
             </button>
           </li>
           <li className="relative min-h-32 bg-white px-6 py-5 shadow-[0_2px_4px_0_rgba(0,0,0,0.2),0_25px_50px_0_rgba(0,0,0,0.1)]">
@@ -62,7 +62,7 @@ function Notes() {
               type="button"
               className="absolute top-4 right-5 cursor-pointer text-[26px] leading-none text-[#949494] hover:text-[#c18585]"
             >
-              
+              ×
             </button>
           </li>
         </ul>
